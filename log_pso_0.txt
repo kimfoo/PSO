@@ -1,0 +1,172 @@
+Initialisation adsorption energies:
+[7206.596 2519.155  787.922  177.97   -17.367  -65.833  -66.522  -54.676
+  -41.887]
+Morse [17.78853597  1.91254398  2.60470682]
+
+Initialisation adsorption energies:
+[974.666 201.353 -39.703 -95.756 -93.111 -75.864 -58.172 -43.712 -32.765]
+Morse [22.84359135  2.13288273  1.82795696]
+
+Initialisation adsorption energies:
+[746.783 151.773 -34.038 -78.582 -77.609 -64.65  -50.759 -39.026 -29.876]
+Morse [5.53071939 2.47482666 1.83066093]
+
+Initialisation adsorption energies:
+[2616.974  658.516   74.35   -74.665  -93.826  -79.735  -61.186  -45.532
+  -33.751]
+Morse [21.14256547  2.30434214  2.06780157]
+
+Initialisation adsorption energies:
+[1079.567  291.726    5.592  -81.168  -93.786  -82.348  -65.794  -50.55
+  -38.25 ]
+Morse [21.14993996  1.64539622  2.13536793]
+
+Initialisation adsorption energies:
+[1361.672  376.764   26.88   -78.041  -94.474  -83.018  -65.825  -50.118
+  -37.615]
+Morse [22.23345073  1.78531336  2.13282246]
+
+Initialisation adsorption energies:
+[1437.656  364.462   16.444  -77.228  -87.517  -74.534  -58.126  -43.969
+  -33.03 ]
+Morse [14.71282251  2.10156044  2.06845968]
+
+Initialisation adsorption energies:
+[1084.854  311.023   22.698  -69.263  -86.333  -77.968  -63.341  -49.239
+  -37.591]
+Morse [15.84390403  1.58574791  2.25427557]
+
+Initialisation adsorption energies:
+[1062.218  312.574   32.815  -57.639  -75.979  -69.672  -57.057  -44.636
+  -34.29 ]
+Morse [8.14865456 1.6201672  2.39255266]
+
+Best global fitness= 0.04004258792213892
+Best global fitness at particle index  38
+Best global position (Morse)= [6.19826066 2.15940825 2.2263767 ]
+Adsorption energies= [1464.691  387.924   36.048  -62.476  -77.244  -67.735  -53.774  -41.241
+  -31.344]
+6 -th iteration weight 0.6759999999999999
+
+Best global fitness= 0.029593145592613543
+Best global fitness at particle index  91
+Best global position (Morse)= [6.5577414  2.05921225 2.25306141]
+Adsorption energies= [1388.065  377.396   36.999  -61.314  -77.103  -68.157  -54.34   -41.753
+  -31.743]
+11 -th iteration weight 0.516
+
+Best global fitness= 0.029442638265985123
+Best global fitness at particle index  96
+Best global position (Morse)= [6.04939081 1.89440074 2.32912259]
+Adsorption energies= [1227.685  346.846   35.969  -58.434  -75.321  -67.625  -54.484  -42.146
+  -32.164]
+17 -th iteration weight 0.32399999999999995
+
+Best global fitness= 0.020099542598830157
+Best global fitness at particle index  87
+Best global position (Morse)= [7.3831162  1.94015665 2.28393764]
+Adsorption energies= [1329.704  373.167   40.12   -59.672  -77.179  -69.026  -55.369  -42.661
+  -32.449]
+19 -th iteration weight 0.26
+
+Best global fitness= 0.016467486044435823
+Best global fitness at particle index  98
+Best global position (Morse)= [6.46906438 1.84659924 2.36026753]
+Adsorption energies= [1268.158  367.64    45.039  -55.226  -74.687  -67.952  -55.062  -42.7
+  -32.61 ]
+19 -th iteration weight 0.26
+
+Best global fitness= 0.014525747048921107
+Best global fitness at particle index  87
+Best global position (Morse)= [7.09247986 1.91915846 2.30256434]
+Adsorption energies= [1314.37   371.768   41.332  -58.554  -76.528  -68.721  -55.256  -42.639
+  -32.464]
+20 -th iteration weight 0.22799999999999998
+
+Best global fitness= 0.013650885489503613
+Best global fitness at particle index  87
+Best global position (Morse)= [7.02621477 1.91437088 2.30681122]
+Adsorption energies= [1310.545  371.318   41.563  -58.31   -76.38   -68.649  -55.228  -42.632
+  -32.466]
+21 -th iteration weight 0.19599999999999995
+
+Final global position (Morse)= [array([13.69454067,  2.97387046,  2.01639694]), array([16.16392996,  2.08348318,  1.91757893]), array([9.45365084, 2.02728937, 2.23079157]), array([12.06144445,  1.77922467,  2.3856187 ]), array([10.13839962,  1.91792896,  2.25177025]), array([12.06144445,  1.77922467,  2.3856187 ]), array([12.06144445,  1.77922467,  2.3856187 ])]
+Initialisation adsorption energies:
+[7206.596 2519.155  787.922  177.97   -17.367  -65.833  -66.522  -54.676
+  -41.887]
+Morse [17.78853597  1.91254398  2.60470682]
+
+Initialisation adsorption energies:
+[974.666 201.353 -39.703 -95.756 -93.111 -75.864 -58.172 -43.712 -32.765]
+Morse [22.84359135  2.13288273  1.82795696]
+
+Initialisation adsorption energies:
+[746.783 151.773 -34.038 -78.582 -77.609 -64.65  -50.759 -39.026 -29.876]
+Morse [5.53071939 2.47482666 1.83066093]
+
+Initialisation adsorption energies:
+[2616.974  658.516   74.35   -74.665  -93.826  -79.735  -61.186  -45.532
+  -33.751]
+Morse [21.14256547  2.30434214  2.06780157]
+
+Initialisation adsorption energies:
+[1079.567  291.726    5.592  -81.168  -93.786  -82.348  -65.794  -50.55
+  -38.25 ]
+Morse [21.14993996  1.64539622  2.13536793]
+
+Initialisation adsorption energies:
+[1361.672  376.764   26.88   -78.041  -94.474  -83.018  -65.825  -50.118
+  -37.615]
+Morse [22.23345073  1.78531336  2.13282246]
+
+Initialisation adsorption energies:
+[1437.656  364.462   16.444  -77.228  -87.517  -74.534  -58.126  -43.969
+  -33.03 ]
+Morse [14.71282251  2.10156044  2.06845968]
+
+Initialisation adsorption energies:
+[1084.854  311.023   22.698  -69.263  -86.333  -77.968  -63.341  -49.239
+  -37.591]
+Morse [15.84390403  1.58574791  2.25427557]
+
+Initialisation adsorption energies:
+[1062.218  312.574   32.815  -57.639  -75.979  -69.672  -57.057  -44.636
+  -34.29 ]
+Morse [8.14865456 1.6201672  2.39255266]
+
+Best global fitness= 0.04004258792213892
+Best global fitness at particle index  53
+Best global position (Morse)= [6.19826066 2.15940825 2.2263767 ]
+Adsorption energies= [1464.691  387.924   36.048  -62.476  -77.244  -67.735  -53.774  -41.241
+  -31.344]
+6 -th iteration weight 0.6759999999999999
+
+Best global fitness= 0.012742729450942684
+Best global fitness at particle index  59
+Best global position (Morse)= [2.34303338 2.34303338 2.34303338]
+Adsorption energies= [1542.878  399.465   40.718  -57.304  -72.329  -63.845  -51.013  -39.405
+  -30.17 ]
+6 -th iteration weight 0.6759999999999999
+
+Best global fitness= 0.006232014717875062
+Best global fitness at particle index  26
+Best global position (Morse)= [4.64484078 2.02835717 2.34436754]
+Adsorption energies= [1367.635  381.842   44.254  -55.875  -73.679  -66.142  -53.189  -41.105
+  -31.379]
+11 -th iteration weight 0.516
+
+Best global fitness= 0.0018255668313935164
+Best global fitness at particle index  26
+Best global position (Morse)= [4.46809383 1.95267214 2.37586691]
+Adsorption energies= [1272.331  360.048   41.094  -55.394  -73.048  -65.871  -53.174  -41.203
+  -31.505]
+17 -th iteration weight 0.32399999999999995
+
+Best global fitness= 0.0007305616392500373
+Best global fitness at particle index  24
+Best global position (Morse)= [4.25073059 2.05157524 2.34552305]
+Adsorption energies= [1353.095  374.758   41.672  -56.403  -73.458  -65.745  -52.823  -40.824
+  -31.181]
+24 -th iteration weight 0.09999999999999998
+
+Final global position (Morse)= [array([9.43711385, 2.22682449, 2.23934753]), array([6.68008167, 2.35732262, 2.32718765]), array([11.73176088,  2.23210874,  2.17219241]), array([11.73176088,  2.23210874,  2.17219241]), array([21.72348808,  2.54904825,  2.42447301])]
